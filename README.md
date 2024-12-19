@@ -49,8 +49,7 @@ To better understand the dataset and its features, the following visualizations 
 - ![image](https://github.com/user-attachments/assets/625c816c-03d9-43ea-b1a4-d1c43c2add0d)
 
 - **Correlation Matrix**: This heatmap shows the correlation between all features in the dataset, providing insights into multicollinearity and feature relationships.
--![image](https://github.com/user-attachments/assets/7d5a3f11-3a54-497f-875e-07e9a245787e)
-
+-![image](https://github.com/user-attachments/assets/60443e80-bf02-499f-9499-24e131ae50ef)
 
 
 - **Confusion Matrix**: This visualization highlights the performance of the model by showing the counts of true positives, false positives, true negatives, and false negatives for each class.
