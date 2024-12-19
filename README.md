@@ -55,9 +55,6 @@ To better understand the dataset and its features, the following visualizations 
 - **Confusion Matrix**: This visualization highlights the performance of the model by showing the counts of true positives, false positives, true negatives, and false negatives for each class.
 - ![image](https://github.com/user-attachments/assets/e8b4ff52-102b-4a40-9952-136e25075292)
 
-
-  (Insert confusion matrix image here)
-
 - **Feature Importances**: This bar chart shows the relative importance of each feature in the model, helping to identify the key drivers of the predictions.
 - ![image](https://github.com/user-attachments/assets/963ee4b1-294e-4441-aeb8-e8fc5d544d8c)
 
