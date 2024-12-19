@@ -41,9 +41,25 @@ The model's performance is evaluated using the following metrics:
 - **F1-score**: The harmonic mean of precision and recall.
 - **Confusion Matrix**: A matrix showing the true positives, false positives, true negatives, and false negatives.
 
-## Conclusion
+- ## Data Visualization
 
-The goal of this project is to classify exoplanets into the appropriate disposition category, helping to identify which exoplanets are worth further investigation. The model provides an efficient way to process and analyze Kepler mission data, making predictions about exoplanetary systems.
+To better understand the dataset and its features, the following visualizations were created:
+
+- **Classification Report**: This image summarizes the precision, recall, and F1-scores for each class, as well as the overall accuracy.
+- ![image](https://github.com/user-attachments/assets/625c816c-03d9-43ea-b1a4-d1c43c2add0d)
+
+- **Correlation Matrix**: This heatmap shows the correlation between all features in the dataset, providing insights into multicollinearity and feature relationships.
+- ![image](https://github.com/user-attachments/assets/7de75cf8-6ce3-4462-9491-9b3a9a988889)
+
+
+- **Confusion Matrix**: This visualization highlights the performance of the model by showing the counts of true positives, false positives, true negatives, and false negatives for each class.
+- ![image](https://github.com/user-attachments/assets/e8b4ff52-102b-4a40-9952-136e25075292)
+
+
+  (Insert confusion matrix image here)
+
+- **Feature Importances**: This bar chart shows the relative importance of each feature in the model, helping to identify the key drivers of the predictions.
+- ![image](https://github.com/user-attachments/assets/963ee4b1-294e-4441-aeb8-e8fc5d544d8c)
 
 ---
 
